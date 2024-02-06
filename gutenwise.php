@@ -10,7 +10,6 @@
  * Author URI:        https://gutenwise.com/
  * License:           GPL v2 or later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
- * Update URI:        https://gutenwise.com/
  * Text Domain:       gutenwise
  * Domain Path:       /languages
  */
